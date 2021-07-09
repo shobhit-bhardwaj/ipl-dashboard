@@ -1,0 +1,18 @@
+http://localhost:8081/h2-console/
+jdbc:h2:mem:ipl_dashboard
+
+
+http://localhost:8081/
+
+
+
+http://localhost:8081/team/all
+http://localhost:8081/team/Sunrisers Hyderabad
+http://localhost:8081/team/Sunrisers Hyderabad/matches?year=2016
+
+
+http://localhost:3000
+http://localhost:3000/teams/
+
+http://localhost:3000/teams/Mumbai Indians
+http://localhost:3000/teams/Mumbai Indians/matches/2016

@@ -1,0 +1,12 @@
+npx create-react-app ipl-dashboard-ui
+yarn start
+yarn build
+
+Copy the content of /build folder in spring boot's resources/public folder
+
+
+-----	Dependencies	-----
+
+yarn add react-router-dom
+yarn add node-sass -D
+yarn add react-minimal-pie-chart
